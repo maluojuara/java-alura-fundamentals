@@ -3,6 +3,10 @@ public class Main {
         System.out.println("Welcome to Screen Match");
         System.out.println("Movie: Top Gun");
 
-        int year = 2022;
+        int releaseYear = 2022;
+        System.out.println("Release year: " + releaseYear);
+
+        boolean isIncludedOnPlan = false;
+        double rating = 8.2;
     }
 }
