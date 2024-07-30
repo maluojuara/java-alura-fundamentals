@@ -32,7 +32,7 @@ This repository contains the files and exercises developed during my learning pr
 | [First program in Java](https://github.com/maluojuara/java-alura-fundamentals/tree/main)   |✅      | 
 | [Explore the main data types](https://github.com/maluojuara/java-alura-fundamentals/tree/aula-1)                     |✅| 
 | [Use the Scanner for data input and control the flow of the application with conditionals and loops](https://github.com/maluojuara/java-alura-fundamentals/tree/aula-2)                    |✅      | 
-| [Consolidating knowledge (challenge)]() |✅      |  
+| [Consolidating knowledge (challenge)](https://github.com/maluojuara/java-bank-account) |✅      |  
 
 </div>
 
